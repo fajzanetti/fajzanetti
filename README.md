@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there ✌, I'm Felipe Zanetti</h1>
 
-<!--
-**fajzanetti/fajzanetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Codificar](https://codificar.com.br/)
+- 🌱 I’m currently learning **JavaScript/TypeScript, ReactJS, React Native**
+- 📫 How to reach me: [felipeajz@hotmail.com](mailto:felipeajz@hotmail.com)
 
-Here are some ideas to get you started:
+***Becoming a professional and lover of mobile and web development***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# <img src="https://img.shields.io/github/followers/fajzanetti?style=social" alt="fajzanetti"/> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JS" width="20" height="20"/> <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="TS" width="20" height="20"/> <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="REACT" width="20" height="20"/> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" alt="NODEJS" width="20" height="20"/> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fajzanetti&show_icons=true&theme=vue" alt="fajzanetti"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zanetti&theme=vue" alt="fajzanetti"/> 
+</p>
