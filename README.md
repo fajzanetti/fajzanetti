@@ -7,7 +7,7 @@
 ***Becoming a professional and lover of mobile and web development***
 
 # <img src="https://img.shields.io/github/followers/fajzanetti?style=social" alt="fajzanetti"/> 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,vue,nodejs,html,css,figma,git,mysql)](https://skills.thijs.gg](https://github.com/fajzanetti)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,vue,nodejs,html,css,figma,git,mysql)]()
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fajzanetti&show_icons=true&theme=react" alt="fajzanetti"/>
